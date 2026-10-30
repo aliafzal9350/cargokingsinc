@@ -60,6 +60,6 @@ An interactive, high-performance web experience for **Cargo Kings Inc**, featuri
 ## 📞 Direct Dispatch Contact
 
 - **Phone**: (929) 503-7626
-- **Email**: info@cargokingsinc.com / cargokings718@gmail.com
+- **Email**: cargokings718@gmail.com
 - **Instagram**: [@cargokingsinc](https://www.instagram.com/cargokingsinc)
 - **TikTok**: [@cargokingsinc](https://www.tiktok.com/@cargokingsinc)

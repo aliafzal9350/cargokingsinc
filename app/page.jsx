@@ -538,10 +538,7 @@ export default function HomePage() {
                   <div className="overflow-hidden">
                     <span className="text-[10px] font-mono text-slate-500 font-bold uppercase block">Inquiries & Rate Cons</span>
                     <div className="flex flex-col sm:flex-row sm:gap-4 mt-0.5">
-                      <a href="mailto:info@cargokingsinc.com" className="text-xs sm:text-sm font-semibold text-slate-900 hover:text-red-600 transition font-mono truncate">
-                        info@cargokingsinc.com
-                      </a>
-                      <a href="mailto:cargokings718@gmail.com" className="text-[11px] sm:text-xs font-mono text-slate-500 hover:text-red-600 transition truncate">
+                      <a href="mailto:cargokings718@gmail.com" className="text-xs sm:text-sm font-semibold text-slate-900 hover:text-red-600 transition font-mono truncate">
                         cargokings718@gmail.com
                       </a>
                     </div>
