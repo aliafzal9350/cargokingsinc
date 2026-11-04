@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound() { return <main className="max-w-3xl mx-auto px-5 py-20"><h1 className="text-3xl font-bold">Page not found</h1><p className="my-5">This address does not match a page on Cargo Kings.</p><Link className="underline text-red-700" href="/">Return home</Link><span> · </span><Link className="underline text-red-700" href="/resources">Read freight guides</Link></main>; }
