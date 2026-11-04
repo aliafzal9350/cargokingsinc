@@ -1,9 +1,10 @@
 import './globals.css';
 import { Analytics } from '@vercel/analytics/next';
-import { BUSINESS, SITE_URL, toJsonLd } from '@/lib/site';
+import { ADSENSE_CLIENT, BUSINESS, SITE_URL, toJsonLd } from '@/lib/site';
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
+  ...(ADSENSE_CLIENT && { other: { 'google-adsense-account': ADSENSE_CLIENT } }),
   title: 'Cargo Kings Inc | Expedited Box Truck Freight',
   description: 'Expedited 26ft dock-high box truck freight with liftgate and electric pallet jack. Request availability and a rate: (929) 503-7626.',
   icons: {
