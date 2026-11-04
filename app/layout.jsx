@@ -1,4 +1,5 @@
 import './globals.css';
+import { Analytics } from '@vercel/analytics/next';
 import { BUSINESS, SITE_URL, toJsonLd } from '@/lib/site';
 
 export const metadata = {
@@ -42,6 +43,7 @@ export default function RootLayout({ children }) {
       <body className="bg-white text-slate-900 selection:bg-red-600 selection:text-white min-h-screen antialiased">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: toJsonLd({ '@context': 'https://schema.org', '@type': 'Organization', '@id': `${SITE_URL}/#organization`, name: BUSINESS.name, url: `${SITE_URL}/`, logo: `${SITE_URL}/image/logo-full-retina.png`, telephone: BUSINESS.phone, email: BUSINESS.email, founder: { '@type': 'Person', name: BUSINESS.owner }, identifier: [{ '@type': 'PropertyValue', propertyID: 'USDOT', value: BUSINESS.usdot }, { '@type': 'PropertyValue', propertyID: 'MC', value: BUSINESS.mc }], sameAs: ['https://www.instagram.com/cargokingsinc/', 'https://www.tiktok.com/@cargokingsinc'] }) }} />
         {children}
+        <Analytics />
       </body>
     </html>
   );
