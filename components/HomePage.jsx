@@ -392,7 +392,7 @@ export default function HomePage() {
               </h2>
             </div>
             <p className="text-slate-600 text-xs sm:text-sm max-w-md font-normal leading-relaxed">
-              Managed under principal authority by <strong className="text-slate-900">Gaika Headley</strong>, delivering zero-failure ground transport across ports, airports, and commercial freight hubs.
+              Managed under principal authority by <strong className="text-slate-900">Gaika Headley</strong>, coordinating dock-high ground transport across ports, airports, and commercial freight hubs.
             </p>
           </div>
 
