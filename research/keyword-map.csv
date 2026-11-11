@@ -1,0 +1,59 @@
+page,keyword,us_monthly_volume,keyword_difficulty,role
+/ (homepage),"pallet delivery",480,9,primary
+/ (homepage),"pallet delivery service",480,22,secondary
+/ (homepage),"delivery on pallet",320,21,secondary
+/ (homepage),"pallet shipping companies",260,24,secondary
+/ (homepage),"pallet transport",170,29,secondary
+/ (homepage),"delivery pallet",90,22,secondary
+/ (homepage),"pallet shippers",90,6,secondary
+/ (homepage),"pallet shipping service",70,25,secondary
+/ (homepage),"pallets trucking",70,12,secondary
+/ (homepage),"deliver a pallet",50,18,secondary
+/ (homepage),"pallet shipping services",50,23,secondary
+NEW /resources/how-to-palletize,"palletize",1900,24,primary
+NEW /resources/how-to-palletize,"palletised freight",260,10,secondary
+NEW /resources/how-to-palletize,"what does palletizing mean",210,16,secondary
+NEW /resources/how-to-palletize,"pack a pallet",140,14,secondary
+NEW /resources/how-to-palletize,"pallet packing",140,19,secondary
+NEW /resources/how-to-palletize,"palletize meaning",140,26,secondary
+NEW /resources/how-to-palletize,"how to palletize a shipment",90,8,secondary
+NEW /resources/how-to-palletize,"palletized packaging",70,17,secondary
+NEW /resources/how-to-palletize,"palletized shipment",70,25,secondary
+NEW /resources/how-to-palletize,"palletized shipping",70,26,secondary
+NEW /resources/how-to-palletize,"how to palletize",50,12,secondary
+NEW /resources/how-to-palletize,"palletized freight transport",50,24,secondary
+NEW /resources/how-to-ship-a-pallet,"shipping pallet",1300,28,primary
+NEW /resources/how-to-ship-a-pallet,"shipping a pallet",880,23,secondary
+NEW /resources/how-to-ship-a-pallet,"freight shipping pallet",320,25,secondary
+NEW /resources/how-to-ship-a-pallet,"how much does it cost to ship a pallet",320,18,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet ship",320,28,secondary
+NEW /resources/how-to-ship-a-pallet,"how to ship a pallet",260,18,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet freight shipping",260,26,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet shipping rates",260,20,secondary
+NEW /resources/how-to-ship-a-pallet,"ship a pallet",260,26,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet shipment",210,20,secondary
+NEW /resources/how-to-ship-a-pallet,"ship pallets",210,27,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet for shipping",170,18,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet of freight",170,21,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet quotes",170,20,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet shipping prices",170,19,secondary
+NEW /resources/how-to-ship-a-pallet,"ship pallet",170,27,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet shipping quotes",140,19,secondary
+NEW /resources/how-to-ship-a-pallet,"cheapest way to ship a pallet",110,17,secondary
+NEW /resources/how-to-ship-a-pallet,"pallet quote",110,20,secondary
+NEW /resources/how-to-ship-a-pallet,"ship on pallet",110,27,secondary
+NEW /resources/how-to-ship-a-pallet,"shipping by pallet",110,21,secondary
+NEW /resources/how-to-ship-a-pallet,"cost to ship a pallet",90,11,secondary
+NEW /resources/how-to-ship-a-pallet,"freight pallet",90,19,secondary
+NEW /resources/how-to-ship-a-pallet,"pallets for shipping",90,14,secondary
+NEW /resources/how-to-ship-a-pallet,"how do i ship a pallet",70,25,secondary
+NEW /resources/how-to-ship-a-pallet,"how much does it cost to send a pallet",70,11,secondary
+NEW /resources/how-to-ship-a-pallet,"how much to ship a pallet of freight",70,17,secondary
+NEW /resources/how-to-ship-a-pallet,"how to send a pallet",70,17,secondary
+NEW /resources/how-to-ship-a-pallet,"how to ship a pallet cheap",70,18,secondary
+NEW /resources/how-to-ship-a-pallet,"average shipping cost per pallet",50,13,secondary
+NEW /resources/how-to-ship-a-pallet,"best way to ship a pallet across country",50,13,secondary
+NEW /resources/how-to-ship-a-pallet,"cheap pallet shipping",50,3,secondary
+NEW /resources/how-to-ship-a-pallet,"cost of shipping a pallet",50,7,secondary
+NEW /resources/how-to-ship-a-pallet,"shipping a pallet cost",50,17,secondary
+NEW /resources/how-to-ship-a-pallet,"cost of pallet shipping",40,16,secondary
