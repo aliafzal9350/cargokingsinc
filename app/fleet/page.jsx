@@ -9,7 +9,7 @@ import jack from '@/public/image/fleet/electric-pallet-jack-etrack.webp';
 import front from '@/public/image/fleet/freightliner-m2-front.webp';
 import door from '@/public/image/fleet/cab-door-usdot-mc.webp';
 
-const title = 'Our Fleet: Box Trucks with Liftgate & Electric Pallet Jack';
+const title = 'Our Box Truck Fleet & Liftgate Equipment';
 const description = 'Real photos of the two Cargo Kings box trucks — a Freightliner M2 and an International MV — with rear liftgate, E-track and an onboard electric pallet jack.';
 export const metadata = editorialMetadata(title, description, '/fleet');
 
@@ -35,7 +35,7 @@ export default function FleetPage() {
       </div>
       <h2 className="text-2xl font-bold">Why the pallet jack matters</h2>
       <p>Many small receivers have no forklift. A liftgate brings the pallet to ground level, and the electric jack moves it from the gate to the door. Tell dispatch the pallet weight and the surface between the truck and the door so we can confirm the move is safe.</p>
-      <p>Verify any carrier on the <a className="underline" href="https://safer.fmcsa.dot.gov/CompanySnapshot.aspx" rel="noopener">FMCSA company snapshot</a> before you tender. Read our <Link className="underline" href="/resources">freight guides</Link> to prepare your shipment.</p>
+      <p>Verify any carrier on the <a className="underline" href="https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=3801387" rel="noopener">FMCSA company snapshot</a> before you tender. Read our <Link className="underline" href="/resources">freight guides</Link> to prepare your shipment.</p>
     </div>
   </EditorialPage>;
 }
