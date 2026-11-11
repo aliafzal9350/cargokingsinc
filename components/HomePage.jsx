@@ -73,7 +73,7 @@ export default function HomePage() {
             <span className="text-slate-300">|</span>
             <span className="text-slate-700 font-semibold shrink-0">MC# 1368401</span>
             <span className="text-slate-300">|</span>
-            <span className="text-slate-700 font-semibold shrink-0">USDOT 3801397</span>
+            <span className="text-slate-700 font-semibold shrink-0">USDOT 3801387</span>
             <span className="hidden md:inline text-slate-300">|</span>
             <span className="hidden md:inline text-red-600 font-medium bg-red-50/80 px-2 py-0.5 rounded border border-red-100 shrink-0">
               2 DEDICATED POWER UNITS ACTIVE
@@ -484,7 +484,7 @@ export default function HomePage() {
               </div>
               <div className="p-3 sm:p-4 rounded-xl sm:rounded-2xl bg-slate-50 border border-slate-200/80">
                 <span className="text-[9px] sm:text-[10px] text-slate-500 uppercase font-bold block">USDOT Number</span>
-                <span className="text-xs sm:text-sm font-bold text-slate-900 block mt-1">DOT# 3801397</span>
+                <span className="text-xs sm:text-sm font-bold text-slate-900 block mt-1">DOT# 3801387</span>
               </div>
             </div>
           </div>
@@ -660,7 +660,7 @@ export default function HomePage() {
                   MC# 1368401
                 </span>
                 <span className="bg-white border border-slate-200 text-slate-700 font-semibold px-2.5 py-1 rounded text-[10px]">
-                  DOT# 3801397
+                  DOT# 3801387
                 </span>
               </div>
             </div>
@@ -699,11 +699,11 @@ export default function HomePage() {
           </div>
 
           <nav aria-label="Company and freight resources" className="pt-6 flex flex-wrap gap-x-6 gap-y-3 text-slate-700">
-            <a href="/resources">Freight guides</a><a href="/about">About</a><a href="/contact">Contact</a><a href="/privacy-policy">Privacy policy</a><a href="/terms">Terms</a>
+            <a href="/resources">Freight guides</a><a href="/fleet">Our fleet</a><a href="/about">About</a><a href="/contact">Contact</a><a href="/privacy-policy">Privacy policy</a><a href="/terms">Terms</a>
           </nav>
           <div className="pt-6 sm:pt-8 flex flex-col sm:flex-row justify-between items-center gap-3 sm:gap-4 text-slate-500 text-[11px] text-center sm:text-left">
             <p>© {new Date().getFullYear()} Cargo Kings Inc. All rights reserved.</p>
-            <p>DOT# 3801397 • MC# 1368401 • Principal: Gaika Headley</p>
+            <p>DOT# 3801387 • MC# 1368401 • Principal: Gaika Headley</p>
           </div>
         </div>
       </footer>

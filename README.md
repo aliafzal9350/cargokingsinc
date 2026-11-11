@@ -7,7 +7,7 @@ An interactive, high-performance web experience for **Cargo Kings Inc**, featuri
 ## 🚛 Fleet & Operational Overview
 
 - **Primary Authority**: Gaika Headley
-- **USDOT Number**: `3801397`
+- **USDOT Number**: `3801387`
 - **FMCSA MC Authority**: `MC-1368401`
 - **Equipment**:
   - 26ft Dock-High Straight Box Trucks (2 Dedicated Power Units)

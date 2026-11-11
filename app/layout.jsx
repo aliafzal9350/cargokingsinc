@@ -23,7 +23,7 @@ export const metadata = {
     'Electric Pallet Jack',
     'Gaika Headley',
     'MC 1368401',
-    'USDOT 3801397'
+    'USDOT 3801387'
   ],
   authors: [{ name: 'Gaika Headley', url: 'https://cargokingsinc.com' }],
   openGraph: {
